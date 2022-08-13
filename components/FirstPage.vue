@@ -1,5 +1,8 @@
 <template>
-  <h1>First Page</h1>
+  <div>
+    <h1>First Page</h1>
+    <p>This is a component.</p>
+  </div>
 </template>
 
 <script>
