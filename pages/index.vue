@@ -2,7 +2,7 @@
   <div>
     <page-header />
     <first-page />
-    <NuxtLogo />
+    
   </div>
 </template>
 
